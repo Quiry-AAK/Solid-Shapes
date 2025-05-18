@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1650715c4ac48a4ad78f9790fbc8e23, type: 3}
+  m_Name: CylinderInspectionSolidShapeProperty
+  m_EditorClassIdentifier: 
+  shapeName: Cylinder
+  inspectionSolidShapePrefab: {fileID: 74724775778946401, guid: 457e27cbb54e83a4a9b61a9f474f2a5a,
+    type: 3}
+  volumeFormulaSprite: {fileID: 21300000, guid: 37a9484215cd33144be1292040801469,
+    type: 3}
+  tsaFormulaSprite: {fileID: 21300000, guid: 0223efc19c370094694002db9a135bdd, type: 3}
